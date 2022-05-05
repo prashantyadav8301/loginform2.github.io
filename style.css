@@ -106,4 +106,7 @@ hr {
         margin-top: 150px;
         box-shadow: none;
     }
+    .logo{
+        left: 38%;
+    }
 }
